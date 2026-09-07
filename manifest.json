@@ -1,97 +1,97 @@
-﻿{
-    "version":  5,
-    "publishedAt":  "2026-09-07T01:22:55.093Z",
-    "topics":  [
-                   {
-                       "id":  10041,
-                       "title":  "Test 41 - Marine Conservation Briefing, Behavioral Economics",
-                       "moduleId":  [
-                                        0,
-                                        1
-                                    ],
-                       "category":  "Full Test",
-                       "description":  "February 2026",
-                       "image":  "28",
-                       "dateCreated":  "2026-09-07T01:14:56.408Z",
-                       "toeflUrl":  "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10041.enc.json"
-                   },
-                   {
-                       "id":  10042,
-                       "title":  "Test 42 - Lecture Attendance Policy, Hard Work and Talent",
-                       "moduleId":  [
-                                        0,
-                                        1
-                                    ],
-                       "category":  "Full Test",
-                       "description":  "March 2026",
-                       "image":  "70",
-                       "dateCreated":  "2026-09-07T01:14:56.408Z",
-                       "toeflUrl":  "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10042.enc.json"
-                   },
-                   {
-                       "id":  10043,
-                       "title":  "Test 43 - Price Discrimination Examples, Memory Retention Techniques",
-                       "moduleId":  [
-                                        0,
-                                        1
-                                    ],
-                       "category":  "Full Test",
-                       "description":  "April 2026",
-                       "image":  "94",
-                       "dateCreated":  "2026-09-07T01:14:56.408Z",
-                       "toeflUrl":  "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10043.enc.json"
-                   },
-                   {
-                       "id":  10044,
-                       "title":  "Test 44 - Plant Adaptation, Work or Continuing Education",
-                       "moduleId":  [
-                                        0,
-                                        1
-                                    ],
-                       "category":  "Full Test",
-                       "description":  "May 2026",
-                       "image":  "4",
-                       "dateCreated":  "2026-09-07T01:14:56.408Z",
-                       "toeflUrl":  "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10044.enc.json"
-                   },
-                   {
-                       "id":  10045,
-                       "title":  "Test 45 - Campus Parking Fees, Anchoring Effect",
-                       "moduleId":  [
-                                        0,
-                                        1
-                                    ],
-                       "category":  "Full Test",
-                       "description":  "June 2026",
-                       "image":  "28",
-                       "dateCreated":  "2026-09-07T01:14:56.408Z",
-                       "toeflUrl":  "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10045.enc.json"
-                   },
-                   {
-                       "id":  10046,
-                       "title":  "Test 46 - Cybersecurity Awareness, Artificial Intelligence in Education",
-                       "moduleId":  [
-                                        0,
-                                        1
-                                    ],
-                       "category":  "Full Test",
-                       "description":  "July 2026",
-                       "image":  "30",
-                       "dateCreated":  "2026-09-07T01:14:56.408Z",
-                       "toeflUrl":  "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10046.enc.json"
-                   },
-                   {
-                       "id":  10047,
-                       "title":  "Test 47 - Renewable Energy Projects, Climate Change Awareness",
-                       "moduleId":  [
-                                        0,
-                                        1
-                                    ],
-                       "category":  "Full Test",
-                       "description":  "August 2026",
-                       "image":  "31",
-                       "dateCreated":  "2026-09-07T01:14:56.408Z",
-                       "toeflUrl":  "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10047.enc.json"
-                   }
-               ]
+{
+  "version": 5,
+  "publishedAt": "2026-09-07T01:22:55.093Z",
+  "topics": [
+    {
+      "id": 10041,
+      "title": "Test 41 - Marine Conservation Briefing, Behavioral Economics",
+      "moduleId": [
+        0,
+        1
+      ],
+      "category": "Full Test",
+      "description": "February 2026",
+      "image": "28",
+      "dateCreated": "2026-09-07T01:14:56.408Z",
+      "toeflUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10041.enc.json"
+    },
+    {
+      "id": 10042,
+      "title": "Test 42 - Lecture Attendance Policy, Hard Work and Talent",
+      "moduleId": [
+        0,
+        1
+      ],
+      "category": "Full Test",
+      "description": "March 2026",
+      "image": "70",
+      "dateCreated": "2026-09-07T01:14:56.408Z",
+      "toeflUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10042.enc.json"
+    },
+    {
+      "id": 10043,
+      "title": "Test 43 - Price Discrimination Examples, Memory Retention Techniques",
+      "moduleId": [
+        0,
+        1
+      ],
+      "category": "Full Test",
+      "description": "April 2026",
+      "image": "94",
+      "dateCreated": "2026-09-07T01:14:56.408Z",
+      "toeflUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10043.enc.json"
+    },
+    {
+      "id": 10044,
+      "title": "Test 44 - Plant Adaptation, Work or Continuing Education",
+      "moduleId": [
+        0,
+        1
+      ],
+      "category": "Full Test",
+      "description": "May 2026",
+      "image": "4",
+      "dateCreated": "2026-09-07T01:14:56.408Z",
+      "toeflUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10044.enc.json"
+    },
+    {
+      "id": 10045,
+      "title": "Test 45 - Campus Parking Fees, Anchoring Effect",
+      "moduleId": [
+        0,
+        1
+      ],
+      "category": "Full Test",
+      "description": "June 2026",
+      "image": "28",
+      "dateCreated": "2026-09-07T01:14:56.408Z",
+      "toeflUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10045.enc.json"
+    },
+    {
+      "id": 10046,
+      "title": "Test 46 - Cybersecurity Awareness, Artificial Intelligence in Education",
+      "moduleId": [
+        0,
+        1
+      ],
+      "category": "Full Test",
+      "description": "July 2026",
+      "image": "30",
+      "dateCreated": "2026-09-07T01:14:56.408Z",
+      "toeflUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10046.enc.json"
+    },
+    {
+      "id": 10047,
+      "title": "Test 47 - Renewable Energy Projects, Climate Change Awareness",
+      "moduleId": [
+        0,
+        1
+      ],
+      "category": "Full Test",
+      "description": "August 2026",
+      "image": "31",
+      "dateCreated": "2026-09-07T01:14:56.408Z",
+      "toeflUrl": "https://cdn.jsdelivr.net/gh/americanaimatics/toefl-remote-content@655971f7b05b7d11f9e5a39d536d09f7f297ccee/toefl/toefl-2026/_Extra/10047.enc.json"
+    }
+  ]
 }
